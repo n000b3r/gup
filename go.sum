@@ -1,5 +1,3 @@
-github.com/beauknowstech/gup v0.0.0-20230208155206-e4f10aa9e12e h1:dSebY7okE3YJpbMAQhGXpTrR7Ez0qmwDkc+BbNyNFlI=
-github.com/beauknowstech/gup v0.0.0-20230208155206-e4f10aa9e12e/go.mod h1:IWLLYizucewzSHAQvkzXOgyamc8yB/DCsspf3hDfYFA=
 github.com/fatih/color v1.13.0 h1:8LOYc1KYPPmyKMuN8QV2DNRWNbLo6LZ0iLs8+mlH53w=
 github.com/fatih/color v1.13.0/go.mod h1:kLAiJbzzSOZDVNGyDpeOxJ47H46qBXwg5ILebYFFOfk=
 github.com/mattn/go-colorable v0.1.9 h1:sqDoxXbdeALODt0DAeJCVp38ps9ZogZEAXjus69YV3U=
