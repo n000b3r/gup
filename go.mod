@@ -1,8 +1,11 @@
-module github.com/beauknowstech/gup
+module github.com/n000b3r/gup
 
 go 1.19
 
-require github.com/fatih/color v1.13.0
+require (
+	github.com/beauknowstech/gup v0.0.0-20230208155206-e4f10aa9e12e
+	github.com/fatih/color v1.13.0
+)
 
 require (
 	github.com/mattn/go-colorable v0.1.9 // indirect
