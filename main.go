@@ -12,9 +12,9 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/beauknowstech/gup/internal/filelist"
-	"github.com/beauknowstech/gup/internal/iplist"
-	"github.com/beauknowstech/gup/internal/logger"
+	"github.com/n000b3r/gup/internal/filelist"
+	"github.com/n000b3r/gup/internal/iplist"
+	"github.com/n000b3r/gup/internal/logger"
 	"github.com/fatih/color"
 )
 
